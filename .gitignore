@@ -17,3 +17,5 @@ data/processed/
 # IDE / Editor
 .vscode/
 .idea/
+.gitignore
+requirements.txt
